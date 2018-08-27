@@ -1,0 +1,2 @@
+(defpackage #:vortoj
+  (:use #:cl))

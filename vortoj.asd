@@ -1,3 +1,5 @@
 (asdf:defsystem :vortoj
     :serial t
-    :components ((:file "package")))
+    :components ((:file "package")
+		 (:module "src"
+			  :components ((:file "language")))))

@@ -1,2 +1,7 @@
 (defpackage #:vortoj
-  (:use #:cl))
+  (:use #:cl)
+  (:export :make-language
+	   :random-letter
+	   :generate-syllable
+	   :generate-word
+	   :default-lang))

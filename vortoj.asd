@@ -2,4 +2,5 @@
     :serial t
     :components ((:file "package")
 		 (:module "src"
-			  :components ((:file "language")))))
+			  :components ((:file "language")
+				       (:file "vortoj")))))

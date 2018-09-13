@@ -4,4 +4,5 @@
 	   :random-letter
 	   :generate-syllable
 	   :generate-word
-	   :default-lang))
+	   :default-lang
+	   :main))
